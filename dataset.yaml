@@ -1,0 +1,9 @@
+
+#path: ../datasets/coco128  # dataset root dir
+train: /content/yolo_data/images/train  # train images 
+val: /content/yolo_data/images/val # 
+# test:  # test images (optional)
+
+# Classes
+nc: 1  # number of classes
+names: ['barcode']  # class names
